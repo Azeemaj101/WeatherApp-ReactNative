@@ -1,4 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# OutPut
+![image](https://github.com/Azeemaj101/WeatherApp-ReactNative/assets/61928905/6da6b8c0-b82d-4a30-b144-fc35204ffa42)
+
 
 # Getting Started
 
